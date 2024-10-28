@@ -1,4 +1,4 @@
-[C3L: Cluster Centroids Contrastive Learning for High-Level Semantic-Aware Reinforcement Learning]
+# Cluster Centroids Contrastive Learning (C3L) for High-Level Semantic-Aware Reinforcement Learning
 
 Our code is based on [CURL](https://github.com/MishaLaskin/curl).
 
