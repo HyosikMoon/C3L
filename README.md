@@ -18,7 +18,7 @@ Libraries (Required libraries can be different based on the settings.)
 - tensorboard
 ```
 
-# Instructions
+## Instructions
 To train a C3L agent on the `cheetah, run` task using image-based observations, configure the environments and hyperparameters in the `train.py` file, then execute the `train.py` file.
 
 In your console, you should observe printouts similar to the following:
